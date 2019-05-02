@@ -5,5 +5,5 @@
 1. Fork this repo
 2. Clone your fork
 3. Update your README.md to indicate who is working on this challenge (yours and your partner's name)
-4. Following the instructions for the **Challenge** in the [README.html](README.html)
+4. Following the instructions for the **Challenge** in the [README.html](https://github.com/CoderAcademy-BRI/css-basics/blob/master/README.html)
 5. Add, commit, and push your work to your fork
