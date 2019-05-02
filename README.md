@@ -27,48 +27,48 @@ Your boss comes in and wants a splash page for a brand of a client. She says you
 
 <ul>
   <li>
-    <a target="_blahref="https://developer.mozilla.org/en-US/docs/Learn/Introduction_to_CSS">Mozilla CSS tutorial</a>
+    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/Introduction_to_CSS">Mozilla CSS tutorial</a>
   </li>
   <li>
     <a target="_blank" href="http://css3test.com/">Tyour CSS</a>
   </li>
   <li>
-    <a target="_blahref="http://colours.neilorangepeel.com/">CSS conames</a>
+    <a target="_blank" href="http://colours.neilorangepeel.com/">CSS conames</a>
   </li>
   <li>
-    <a target="_blahref="https://websitesetup.org/css3-cheat-sheet/">cheat sheet</a>
+    <a target="_blank" href="https://websitesetup.org/css3-cheat-sheet/">cheat sheet</a>
   </li>
   <li>
-    <a target="_blahref="https://coolors.co/">Coolers</a>
+    <a target="_blank" href="https://coolors.co/">Coolers</a>
   </li>
   <li>
-    <a target="_blahref="https://color.adobe.com/create/color-wheel/">A color wheel</a>
+    <a target="_blank" href="https://color.adobe.com/create/color-wheel/">A color wheel</a>
   </li>
   <li>
-    <a target="_blahref="https://youtu.be/EWQukUW5tQc">How Jack White UColor</a>
+    <a target="_blank" href="https://youtu.be/EWQukUW5tQc">How Jack White UColor</a>
   </li>
   <li>
     <a target="_blank" href="http://colorsafe.co/">Cosafe</a>
   </li>
   <li>
-    <a target="_blahref="https://youtu.be/l-S2Y3SF3mM">Branding Identity</a>
+    <a target="_blank" href="https://youtu.be/l-S2Y3SF3mM">Branding Identity</a>
   </li>
   <li>
-    <a target="_blahref="https://youtu.be/YqQx75OPRa0">Desfundamentals</a>
+    <a target="_blank" href="https://youtu.be/YqQx75OPRa0">Desfundamentals</a>
   </li>
   <li>
-    <a target="_blahref="https://youtu.be/MELKuexR3sQ">Design images</a>
+    <a target="_blank" href="https://youtu.be/MELKuexR3sQ">Design images</a>
   </li>
   <li>
-    <a target="_blahref="https://youtu.be/a5KYlHNKQB8">Layout Composition</a>
+    <a target="_blank" href="https://youtu.be/a5KYlHNKQB8">Layout Composition</a>
   </li>
   <li>
-    <a target="_blahref="https://youtu.be/sByzHoiYFX0">Typography</a>
+    <a target="_blank" href="https://youtu.be/sByzHoiYFX0">Typography</a>
   </li>
   <li>
-    <a target="_blahref="https://leaverou.github.io/contrast-ratio/">cost-ratio</a>
+    <a target="_blank" href="https://leaverou.github.io/contrast-ratio/">cost-ratio</a>
   </li>
   <li>
-    <a target="_blahref="https://medium.com/i-math/the-zero-power-rule-ained-449b4bd6934d">Zero Power rule</a>
+    <a target="_blank" href="https://medium.com/i-math/the-zero-power-rule-ained-449b4bd6934d">Zero Power rule</a>
   </li>
 </ul>
