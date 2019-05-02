@@ -27,16 +27,13 @@ Your boss comes in and wants a splash page for a brand of a client. She says you
 
 <ul>
   <li>
-    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/Introduction_to_CSS">Mozilla CSS tutorial</a>
+    <a target="_blank" href="http://css3test.com/">Test your CSS</a>
   </li>
   <li>
-    <a target="_blank" href="http://css3test.com/">Tyour CSS</a>
+    <a target="_blank" href="http://colours.neilorangepeel.com/">CSS color names</a>
   </li>
   <li>
-    <a target="_blank" href="http://colours.neilorangepeel.com/">CSS conames</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://websitesetup.org/css3-cheat-sheet/">cheat sheet</a>
+    <a target="_blank" href="https://websitesetup.org/css3-cheat-sheet/">CSS cheat sheet</a>
   </li>
   <li>
     <a target="_blank" href="https://coolors.co/">Coolers</a>
@@ -45,16 +42,16 @@ Your boss comes in and wants a splash page for a brand of a client. She says you
     <a target="_blank" href="https://color.adobe.com/create/color-wheel/">A color wheel</a>
   </li>
   <li>
-    <a target="_blank" href="https://youtu.be/EWQukUW5tQc">How Jack White UColor</a>
+    <a target="_blank" href="https://youtu.be/EWQukUW5tQc">How Jack White Uses Color</a>
   </li>
   <li>
-    <a target="_blank" href="http://colorsafe.co/">Cosafe</a>
+    <a target="_blank" href="http://colorsafe.co/">Color safe</a>
   </li>
   <li>
     <a target="_blank" href="https://youtu.be/l-S2Y3SF3mM">Branding Identity</a>
   </li>
   <li>
-    <a target="_blank" href="https://youtu.be/YqQx75OPRa0">Desfundamentals</a>
+    <a target="_blank" href="https://youtu.be/YqQx75OPRa0">Design fundamentals</a>
   </li>
   <li>
     <a target="_blank" href="https://youtu.be/MELKuexR3sQ">Design images</a>
@@ -66,7 +63,7 @@ Your boss comes in and wants a splash page for a brand of a client. She says you
     <a target="_blank" href="https://youtu.be/sByzHoiYFX0">Typography</a>
   </li>
   <li>
-    <a target="_blank" href="https://leaverou.github.io/contrast-ratio/">cost-ratio</a>
+    <a target="_blank" href="https://leaverou.github.io/contrast-ratio/">contrast-ratio</a>
   </li>
   <li>
     <a target="_blank" href="https://medium.com/i-math/the-zero-power-rule-ained-449b4bd6934d">Zero Power rule</a>
