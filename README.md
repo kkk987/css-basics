@@ -1,5 +1,11 @@
 # CSS Basics Challenge
 
+## Group members:
+
+    - Tony, Lelani and Mark
+
+
+
 ## Instructions
 
 1. Fork this repo
